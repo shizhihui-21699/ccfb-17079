@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/BankingLogin/BankingLogin.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/DefensiveCopyAnalyzer/DefensiveCopyAnalyzer.csproj" />
+    <Project Path="src/DefensiveCopyAnalyzer.CodeFixes/DefensiveCopyAnalyzer.CodeFixes.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DefensiveCopyAnalyzer.Tests/DefensiveCopyAnalyzer.Tests.csproj" />
+  </Folder>
+</Solution>

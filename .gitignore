@@ -16,3 +16,10 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# .NET 构建产物
+bin/
+obj/
+*.user
+.vs/
+TestResults/
